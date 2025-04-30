@@ -2,11 +2,7 @@
 
 A movie discovery app that shows the latest movies, their details, and trailers using the TMDb API.
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1523237201400-26e041d34955?auto=format&fit=crop&w=1350&q=80" alt="Movie App Banner" width="100%" />
-</p>
 
----
 
 ## 🚀 Features
 
